@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "241258460053",
+    "project_id": "pixel-art-43c3d",
+    "storage_bucket": "pixel-art-43c3d.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:241258460053:android:543e664d2cb50933743c9c",
+        "android_client_info": {
+          "package_name": "com.example.pixel_art"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBXHigYkcO0yqcpUG-9oP_p4YvTj3XavsY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
